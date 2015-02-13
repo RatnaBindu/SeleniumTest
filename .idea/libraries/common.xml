@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="common">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/selenium/common.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/selenium-java-2.44.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/selenium/selenium-server-standalone-2.44.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
